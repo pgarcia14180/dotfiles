@@ -1,0 +1,1097 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'C
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_commissions
+	..
+1593696629
+'F
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/flow
+	testing.py
+1593619872
+'H
+	/Users/pedrogarcia/
+	..
+1591058580
+'P
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll
+	tests
+1593620107
+'S
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll
+	steps
+1593620119
+'b
+	/Users/pedrogarcia/bin/
+	..
+1591058580
+'c
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_commissions
+	services.py
+1612378014
+'h
+	/Users/pedrogarcia/
+	..
+1591058580
+'i
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_min_wage
+	tests
+1619722230
+'k
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	schema.json
+1623188002
+'o
+	/Users/pedrogarcia/development/cornershop/cornershop-backend
+	apps
+1591676080
+'p
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll
+	services.py
+1612143454
+'s
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll
+	utils.py
+1612030005
+'t
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/tipping
+	providers
+1612378273
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy/queries
+	__init__.py
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy
+	__init__.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	legacy_store_search
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/legacy_store_search
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	legacy_store_search
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/legacy_store_search
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/legacy_store_search/queries
+	__init__.py
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/legacy_store_search
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy_active_component_legacy
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy_active_component_legacy
+	__init__.py
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy/queries
+	__init__.py
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy
+	queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	searches
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_store_default
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_store_default
+	test_queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_store_default/test_queries
+	..
+0
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_store_default
+	test_queries
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_store_default.py
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	queries
+4
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries
+	legacy_store.py
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_store_default.py
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	test_queries
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_legacy_store.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries
+	legacy_store.py
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_store_default.py
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries
+	store_default.py
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	searches
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	chilean_pharmacy.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	tests
+6
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	test_queries
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_legacy_store.py
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries
+	legacy_store.py
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	__init__.py
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	test_queries
+2
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries
+	test_pharmacy_attribute_legacy.py
+3
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	test_search.py
+6
+d/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/order_system
+	..
+0
+d/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system
+	order_system
+1
+d/Users/pedrogarcia/development/pixelatedcognition/order_system
+	model.py
+5
+d/Users/pedrogarcia/development/pixelatedcognition
+	order_system
+1
+d/Users/pedrogarcia/development
+	pixelatedcognition
+5
+d/Users/pedrogarcia
+	development
+32
+d/Users/pedrogarcia/development
+	pixelatedcognition
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend
+	tests
+18
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/tests
+	test_migrations.py
+8
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	queries_test.py
+14
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	test_queries_tests.py
+6
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/api/views/v2/catalog
+	..
+0
+d/Users/pedrogarcia/notes/girls/essie
+	..
+0
+d/Users/pedrogarcia/notes/girls
+	essie
+1
+d/Users/pedrogarcia/notes
+	2020
+3
+d/Users/pedrogarcia/notes/2020
+	..
+0
+d/Users/pedrogarcia/notes
+	archives
+4
+d/Users/pedrogarcia/notes/archives
+	..
+0
+d/Users/pedrogarcia/notes
+	2020
+3
+d/Users/pedrogarcia/notes/2020
+	07
+3
+d/Users/pedrogarcia/notes/2020/07
+	..
+0
+d/Users/pedrogarcia/notes/2020
+	07
+3
+d/Users/pedrogarcia/notes
+	2020
+3
+d/Users/pedrogarcia/notes/2020
+	07
+3
+d/Users/pedrogarcia/notes/2020/07
+	10
+1
+d/Users/pedrogarcia/notes/2020/07/10
+	gala.md
+1
+d/Users/pedrogarcia/notes
+	2020
+3
+d/Users/pedrogarcia/notes/2020
+	05
+1
+d/Users/pedrogarcia/notes
+	2021
+4
+d/Users/pedrogarcia/notes/2021
+	..
+0
+d/Users/pedrogarcia/notes
+	2020
+3
+d/Users/pedrogarcia/notes/2020
+	08
+4
+d/Users/pedrogarcia/notes
+	2021
+4
+d/Users/pedrogarcia/notes/2021
+	10
+1
+d/Users/pedrogarcia/notes/2021/10
+	23
+1
+d/Users/pedrogarcia/notes/2021/10/23
+	block_work.md
+1
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests
+	mommy_recipes.py
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search
+	searches
+5
+d/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches
+	store_default.py
+5
+d/Users/pedrogarcia/development/python/sugarelite/sugarelite
+	main.py
+5
+d/Users/pedrogarcia/development/python/sugarelite
+	sugarelite
+1
+d/Users/pedrogarcia/development/python
+	bottle
+2
+d/Users/pedrogarcia/development/python/bottle
+	..
+0
+d/Users/pedrogarcia/development/python
+	wordcontext
+17
+d/Users/pedrogarcia/development/python/wordcontext
+	..
+0
+d/Users/pedrogarcia/development/python
+	wordcontext
+17
+d/Users/pedrogarcia/development/python/wordcontext
+	word
+6
+d/Users/pedrogarcia/development/python/wordcontext/word
+	lib
+1
+d/Users/pedrogarcia/development/python/wordcontext/word/lib
+	entities.py
+2
+d/Users/pedrogarcia/development/python/wordcontext/word
+	lib
+1
+d/Users/pedrogarcia/development/python/wordcontext
+	lib
+5
+d/Users/pedrogarcia/development/python/wordcontext/lib
+	__pycache__
+1
+d/Users/pedrogarcia/development/python/wordcontext/lib/__pycache__
+	..
+0
+d/Users/pedrogarcia/development/python/wordcontext/lib
+	sqlite
+2
+d/Users/pedrogarcia/development/python/wordcontext/lib/sqlite
+	connection.py
+4
+d/Users/pedrogarcia/development/python/wordcontext/lib
+	sqlite
+2
+d/Users/pedrogarcia/development/python/wordcontext/lib/sqlite
+	connection.py
+4
+d
+
+# Right window history (oldest to newest):
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll
+	activities
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities
+	BR
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/BR
+	create_invoices.py
+2
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities
+	BR
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll
+	serializers
+8
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll
+	utils.py
+19
+D/Users/pedrogarcia/development/cornershop/cornershop-backend_before_split
+	apps
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend_before_split/apps
+	shopper_invoicing
+40
+D/Users/pedrogarcia/development/cornershop/cornershop-backend_before_split/apps/shopper_invoicing
+	libs
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend_before_split/apps/shopper_invoicing/libs
+	dataclasses.py
+3
+D/Users/pedrogarcia/development
+	cornershop
+2
+D/Users/pedrogarcia/development/cornershop
+	cornershop-backend
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend
+	apps
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps
+	shopper_invoicing
+40
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing
+	tests
+5
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/tests
+	test_forms.py
+2
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing
+	tests
+5
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps
+	invoicing
+4
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/invoicing
+	models.py
+2
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/invoicing/models.py
+	..
+0
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/invoicing
+	main.py
+5
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps
+	shopper_invoicing
+40
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing
+	libs
+1
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/libs
+	..
+0
+D/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing
+	libs
+1
+D/Users/pedrogarcia/Downloads
+	..
+0
+D/Users/pedrogarcia/Desktop
+	..
+0
+D/Users
+	pedrogarcia
+2
+D/
+	home
+9
+D/Users/pedrogarcia
+	Desktop
+2
+D/Users
+	pedrogarcia
+2
+D/
+	tmp
+13
+D/tmp
+	..
+0
+D/
+	Users
+3
+D/Users
+	pedrogarcia
+2
+D/Users/pedrogarcia
+	development
+12
+D/Users/pedrogarcia/development
+	infra
+3
+D/Users/pedrogarcia/development/infra
+	..
+0
+D/Users/pedrogarcia/development
+	infra
+3
+D/Users/pedrogarcia/development/infra
+	..
+0
+D/Users/pedrogarcia/development
+	infra
+3
+D/Users/pedrogarcia/development/infra
+	..
+0
+D/Users/pedrogarcia/development
+	python
+4
+D/Users/pedrogarcia
+	development
+3
+D/Users
+	pedrogarcia
+2
+D/
+	Users
+3
+D/Users
+	pedrogarcia
+2
+D/Users/pedrogarcia
+	Documents
+3
+D/Users
+	pedrogarcia
+2
+D/Users/pedrogarcia
+	configs
+11
+D/Users/pedrogarcia/configs
+	..
+0
+D/Users/pedrogarcia
+	.vim
+18
+D/Users/pedrogarcia/.vim
+	..
+0
+D/Users/pedrogarcia
+	.vifm
+10
+D/Users
+	pedrogarcia
+2
+D/
+	Users
+4
+D/Users
+	pedrogarcia
+2
+D/Users/pedrogarcia
+	.vifm
+10
+D/Users
+	pedrogarcia
+2
+D/
+	bin
+8
+D
+
+# Command line history (oldest to newest):
+:touch selenium_client.py
+:touch test_data_retriever.py
+:test_default_sorter.py
+:touch test_default_sorter.py
+:touch test_promo
+:touch promotion_aisle_builder.py
+:test_product_aisle_bulder.pykkjkkj
+:touch test_aisle_builder.py
+:touchk:touch
+:touch test_store_search_strategies.py
+:touch search_log.py
+:touch test_search_log
+:store_search_strategies.py
+:touch in_store_branch_search.py
+:touch test_in_store_branch_search.py
+:touch fixtures.py
+:touch test_store_search_processor.py
+:touch test_laboratory.py
+:touch product.py
+:touch 
+:touch test_product.py
+:tm
+:touch.py
+:touch
+:kjkjjkkjj
+:touch product_search_conversion.py
+:touch test_product_search_conversions.py
+:touch subprogram.py
+:touch person.py
+:mkdir test_indexing
+:touch test_bulk_indexing.py
+:mkdir indexing
+:touch bulk_indexing.py
+:touch utils.py
+:touch conftest.py
+:touch test_bulk_index
+:mkdir elastictests
+:touch dataclasses.py
+:query_catalog.py
+:touch query_catalog.py
+:touchjk
+:touch bulk_indexation_test
+:mkdir bulk_indexation_test.py
+:touch indexing.py
+:touch default_query.py
+:touch get_query.py
+:touch old_search_query.py
+:touch j
+:touch chilean_pharmacy.py
+:mkdir search_strategies
+:touch common.py
+:mkdir common
+:mkdir default
+:mkdir chilean_pharmacy
+:touch __init__.py
+:mkdir queries.py
+:touch flow.py
+:touch legacy.py
+:touch store_default.py
+:touch search_attributes.py
+:touch :touch active_component_attributes.py
+:touch legacy_store
+:touch pharmacy_attribute.py
+:mkdir pharmacy_active_component
+:queries
+:touch queries.py
+:touch search.py
+:mkdir providers
+:mkdir tests
+:mkdir users
+:touch user.py
+:mkdir services
+:mkdir templates
+:mkdir views
+:mkdir postgres
+:mkdir user
+:mkdir homepage
+:mkdir static
+:touch home.html
+:mkdir home
+:mkdir test_search_strategies
+:touch store_search_strategies.py
+:mkdir test_common
+:mkdir test_store_default
+:mkdir test_queries
+:mkdir test_legacy_store.py
+:mkdir test_search.py
+:touch test_store_default.py
+:touch test_query.py
+:mkdir test_pharmacy_component_legacy
+:mkdir queries
+:model.py
+:touch model.py
+:queries_test.py
+:touch queries_test.py
+:touch test_queries_tests.py
+:mkdir 10
+:mkdir 23
+:touch block_work.md
+:q
+:touch telegram.py
+
+# Search history (oldest to newest):
+/store_branch
+/payrolll
+/shopper_pa
+/shopper_car
+/shopper_invoicing
+/shopper_invoi
+/invoicin
+/invoicing
+/util
+/shopper_payrol
+/shopper_onbo
+/workflo
+/onboard
+/dock
+/stripe
+/models
+/flow
+/flow/
+/work
+/workflow
+/shopper
+/assi
+/order
+/orders
+/fixtu
+/shoppers/
+/redis_bat
+/_redis
+/redis_batcher
+/_
+/_redi
+/redis
+/notes
+/shopper_comm
+/flowing
+/shopper_invo
+/apps
+/shopper_inv
+/marqeta
+/shopper_in
+/shopper_payro
+/shopper_cards
+/payrol
+/shopper_pay
+/shopper_payr
+/shopper_payroll
+/tipping
+/payee seri
+/flowin
+/payroll
+/shopper_taxes
+/shopper_commis
+/tests
+/sho
+/catalog
+/tmux
+/search
+/data
+/test_services
+/services
+/.tmux
+/:tmux
+/.tmu
+/.vimj
+/product
+/providers
+/services:q
+
+# Prompt history (oldest to newest):
+pselenium_service.py
+ptelegram_service.py
+ptest_queries_test.py
+ppayroll_workflow_CA_V1.json
+ppayroll_workflow_parking_BR_V1.json
+pvalidators.py
+pworkflows
+pdjango.py
+p0021_csv_paysheet_definition.py
+p0021_csv_br_paysheet_definition.py
+pCaptura de Pantalla 2020-11-24 a la(s) 11.52.01.png
+pdeserializer_backup.py
+ptests_providers.py
+ptest_serializers.py
+pcornershop-backend_invoicing_backup
+pdynamodb.py
+pcornershop-backend_before_split
+p0025.py
+p0025_payroll_workflow_colombia_CO_V2.py
+p0025_payroll_workflow_CO_V2.py
+p0027_payroll_workflow_CR_V1.py
+p0025_csv_paysheet_definition_br.py
+p0025_payroll_workflow_CR_V1.py
+p0026_payroll_workflow_CO_V2.py
+pcreate_paysheet.py
+ppayroll_workflow_generic_tipping_invoices_csv_paysheet_V1.json
+ppayroll_workflow_generic_V1.json
+p0025_payroll_workflow_generic_V1.py
+p0025_payroll_workflow_generic_V1_cr_paysheet_def.py
+ptest_peruvian_generic_payroll.py
+p0021_csv_paysheet_definition_mx_cr_br_pe.py
+p0025_payroll_workflow_generic_V1_cr_paysheet_dekkkjf.py
+p0008_update_mx_taxes_2021_tip_iva_retention.py
+ptest_mexican_tipping_payroll.py
+ptest_mexican_regular_payroll.py
+ptest_chilean_bot_regular_payroll.py
+ptest_chilean_tipping_payroll.py
+ptest_chilean_payroll.py
+ptest_colombian_regular_payroll.py
+p0003_payroll_workflow_CL_V1.py
+p002i_payroll_regular_workflow_CL_v1.py
+p0027_payroll_split_regular_tipping_workflow_CL_v1.py
+ppayroll_regular_workflow_CL_V2.json
+ppayroll_tipping_workflow_CL_V2.json
+p0026_csv_paysheet_definition_mx_cr_br_pe.py
+ppayroll_regular_workflow_CL_V1.json
+ppayroll_tipping_workflow_CL_V1.json
+p0026_rename_generic_payroll_cl_co.py
+p0027_payroll_tipping_workflow_CL_v1.py
+p0027_rename_generic_payroll_cl_co_mx.py
+p0029_payroll_workflow_regular_bot_.py
+p0029_payroll_workflow_sii_bot_CL_V2.py
+p0029_payroll_workflow_sii_bot_CL_V3.py
+p0028_rename_generic_payroll_cl_co_mx.py
+pshopper_earnings
+pproduct_search_terms.py
+p0001_create_word.py
+p__init__.py
+ptest_postgres_providers
+ptest_product_search_terms.py
+pproduct_search_exclusion_terms.py
+paisle_builder.py
+pstore_search_processor.py
+ptest_search_log.py
+ptest_store_search_strategies.py
+ptest_product_search_exclusion_terms.py
+pproduct_search_exclusion_terms_processor.py
+ptest_search_exclusion_terms_processor.py
+ptest_product_search_conversion.py
+pentities.py
+pqueries_catalog
+pbulk_indexation_test
+pdefault_store_query.py
+pdefault_store.py
+pold_search.py
+pquery_retriever.py
+plegacy_store_query.py
+psearch_attribute_query.py
+pstore_default
+pqueries
+psearch_attribute.py
+psearch_active_component.py
+psearch.py
+pchilean_pharmacy_legacy
+pchilean_pharmacy_attributes_legacy
+pchilean_pharmacy_active_component_legacy
+puser
+pusers
+phome
+pindex.html
+p__init__.pYy
+ptest_search_strategies.py
+psearches
+pstore_search_strategies_legacy.py
+ptest_search_attributes.py
+ptest_queries
+ptest_store_default.py
+ppharmacy_attribute_legacy.py
+pstore_default.py
+plegacy_store.py
+pchilean_pharmacy_active_component.py
+pchilean_pharmacy.py
+pchilean_pharmacy_active_component_legacy.py
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/Users/pedrogarcia/.local/share/vifm/Trash/000_pharmacy_attribute_legacy.py
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_concepto de payroll.md
+	/Users/pedrogarcia/notes/wikis/cornershop/payroll/concepto de payroll.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_payroll_concept.md
+	/Users/pedrogarcia/notes/wikis/cornershop/payroll/payroll_concept.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_07
+	/Users/pedrogarcia/notes/2020/06/07
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_diary_2.md
+	/Users/pedrogarcia/notes/2020/06/06/diary_2.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_diary_3.md
+	/Users/pedrogarcia/notes/2020/06/06/diary_3.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_vimwiki.snippets
+	/Users/pedrogarcia/.vim/UltiSnips/vimwiki.snippets
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_md.snippets
+	/Users/pedrogarcia/.config/coc/ultisnips/md.snippets
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_MarkDown.snippets
+	/Users/pedrogarcia/.config/coc/ultisnips/MarkDown.snippets
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_.snippets
+	/Users/pedrogarcia/.config/coc/ultisnips/.snippets
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_snippets.snippets
+	/Users/pedrogarcia/.config/coc/ultisnips/snippets.snippets
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_UltiSnips
+	/Users/pedrogarcia/.vim/UltiSnips
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_ultisnips
+	/Users/pedrogarcia/.vim/plugged/coc.nvim/ultisnips
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_woman_psych_sns.md
+	/Users/pedrogarcia/notes/2020/06/25/woman_psych_sns.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_07
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/07
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_08
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/08
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_09
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/09
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_10
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/10
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_14
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/14
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_15
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/15
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_stripe_development.md
+	/Users/pedrogarcia/notes/documents/cornershop/stripe_development.md
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_send_invoices.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/US/send_invoices.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_conf.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/US/conf.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_0017_csv_paysheet_definition.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/migrations/0017_csv_paysheet_definition.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_tasks_2.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shoppers/migrations/test_tasks_2.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_US
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/tests/US
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_tasks_1.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/tests/test_tasks_1.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_01
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/tests/01
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_create_invoices_ca.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/CA/create_invoices_ca.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_create_paysheet_ca.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/CA/create_paysheet_ca.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_canadian_parking_payroll.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/tests/test_canadian_parking_payroll.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_co.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/BR/co.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_sample-transfer.py
+	/Users/pedrogarcia/development/cnab/febraban-python/febraban/sample-transfer.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_payroll_workflow_BR_V1.json
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/workflows/payroll_workflow_BR_V1.json
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_module_loader.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/flowing/tests/test_module_loader.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_activity_manager.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/flowing/activity_manager.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_backends.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/flowing/backends.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/002_0017_csv_paysheet_definition.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/0017_csv_paysheet_definition.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_tables.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/tests/test_tables.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_exceptions.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/libs/exceptions.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_serializer.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/serializers/serializer.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_deserializer.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/serializers/deserializer.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_serializers
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/serializers
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_deserializer_backup.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/libs/deserializer_backup.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_cornershop-backend_backup
+	/Users/pedrogarcia/development/cornershop/cornershop-backend_backup
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_cornershop-backend_usa_csv
+	/Users/pedrogarcia/development/cornershop/cornershop-backend_usa_csv
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_cornershop-backend_usa_csv_backup
+	/Users/pedrogarcia/development/cornershop/cornershop-backend_usa_csv_backup
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_dataclasses.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_invoicing/libs/dataclasses.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_script.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/test_script.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_payroll_workflow_CO_V2.json
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/workflows/payroll_workflow_CO_V2.json
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_CR
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/activities/CR
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_BR
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/BR
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_0024_payroll_workflow_BR.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/0024_payroll_workflow_BR.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_general.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_payroll/steps/general.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_create_invoices.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/create_invoices.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_payroll_workflow_CR_V1.json
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/workflows/payroll_workflow_CR_V1.json
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_0026_payroll_workflow_CO_V2.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/migrations/0026_payroll_workflow_CO_V2.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_0008_update_mx_taxes_2021_tip_iva_retention.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_taxes/migrations/0008_update_mx_taxes_2021_tip_iva_retention.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_002i_payroll_regular_workflow_CL_v1.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/migrations/002i_payroll_regular_workflow_CL_v1.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_payroll_regular_workflow_CL_V1.json
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/workflows/payroll_regular_workflow_CL_V1.json
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_script.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/script.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_providers.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/payroll/providers.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_shopper_session.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shoppers/providers/shopper_session.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_django
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/shopper_earning/providers/django
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_bin
+	/Users/pedrogarcia/development/python/wordcontext/bin
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_.gitignore
+	/Users/pedrogarcia/development/python/wordcontext/.gitignore
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_pyvenv.cfg
+	/Users/pedrogarcia/development/python/wordcontext/pyvenv.cfg
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_lib
+	/Users/pedrogarcia/development/python/wordcontext/lib
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_lib
+	/Users/pedrogarcia/development/python/wordcontext/word/lib
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_audio
+	/Users/pedrogarcia/development/python/wordcontext/audio
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_context
+	/Users/pedrogarcia/development/python/wordcontext/context
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_image
+	/Users/pedrogarcia/development/python/wordcontext/image
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_text
+	/Users/pedrogarcia/development/python/wordcontext/text
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_video
+	/Users/pedrogarcia/development/python/wordcontext/video
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_main.py
+	/Users/pedrogarcia/development/python/wordcontext/word/main.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_entities.py
+	/Users/pedrogarcia/development/python/wordcontext/lib/sqlite/entities.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_dataclasses.py
+	/Users/pedrogarcia/development/python/wordcontext/lib/sqlite/tests/test_dataclasses.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_connection.py
+	/Users/pedrogarcia/development/python/wordcontext/lib/sqlite/tests/test_connection.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_reports
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/reports
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_postgres
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_providers/test_postgres
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_postgres_providers.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_postgres_providers.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_elasticsearch_providers.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_elasticsearch_providers.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_search_terms_processor.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_search_terms_processor.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_promo
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/catalog/tests/test_search/test_promo
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_:touch
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/catalog/search/:touch
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_store_search_strategies.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/catalog/search/store_search_strategies.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_postgres_providers
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_postgres_providers
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_indexing
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/catalog/indexing
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_indexing
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/catalog/tests/test_indexing
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_bulk_indexation_test
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/bulk_indexation_test
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_common.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/common/common.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_common.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/common.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_store_default.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/common/queries/store_default.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_legacy_store_query.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries_catalog/queries/legacy_store_query.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_queries_catalog
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries_catalog
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_queries
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/store_default/queries
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_:touch
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/chilean_pharmacy/queries/:touch
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_queries.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/chilean_pharmacy_attributes_legacy/queries/queries/queries.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_queries
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/search_strategies/chilean_pharmacy_attributes_legacy/queries/queries
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_tests.py
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/user/tests.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_views.py
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/user/views.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_user
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/user/providers/user
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_tests
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/tests
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_services
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/services/user/services
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_providers
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/services/user/providers
+t/Users/pedrogarcia/.local/share/vifm/Trash/001_tests
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/services/user/tests
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_user.py
+	/Users/pedrogarcia/development/pixelatedcognition/order_system/order_system/services/users/user/user.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_common_queries.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_searches/test_common_queries.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_legacy_store.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_searches/test_common/test_store_default/test_queries/test_legacy_store.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_search.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_searches/test_common/test_store_default/test_queries/test_search.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_store_default.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_searches/test_common/test_store_default/test_queries/test_store_default.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_common
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_common
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_pharmacy_component_legacy
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_pharmacy_component_legacy
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_query.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_query.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_common
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/common
+t/Users/pedrogarcia/.local/share/vifm/Trash/002_queries
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy_active_component_legacy/queries
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_store_default
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/store_default
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_chilean_pharmacy
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_chilean_pharmacy_active_component_legacy
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/chilean_pharmacy_active_component_legacy
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_legacy_store_search
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/searches/legacy_store_search
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_test_store_default
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/tests/test_queries/test_store_default
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_pharmacy_attribute_legacy.py
+	/Users/pedrogarcia/development/cornershop/cornershop-backend/apps/search/queries/pharmacy_attribute_legacy.py
+t/Users/pedrogarcia/.local/share/vifm/Trash/000_webmonitoring
+	/Users/pedrogarcia/development/python/sugarelite/sugarelite/webmonitoring
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0
