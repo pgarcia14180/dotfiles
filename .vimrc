@@ -1,3 +1,14 @@
+" Install vim-plug if not found
+if empty(glob('~/.vim/autoload/plug.vim'))
+  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+      \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+      endif
+
+      " Run PlugInstall if there are missing plugins
+      autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
+        \| PlugInstall --sync | source $MYVIMRC
+        \| endif
+
 " Plug configuration
 call plug#begin('~/.vim/plugged')
 Plug 'istib/vifm.vim'
@@ -28,41 +39,34 @@ Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
 Plug 'Yggdroot/indentLine'
 " Plug 'xolox/vim-notes'
-Plug 'xolox/vim-misc'
+" Plug 'xolox/vim-misc'
+" golang support
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 call plug#end()
 
+" access clipboard
 " set Vim-specific RGB colors
-set term=screen-256color
-set t_Co=256
-set t_ut=""
+" set term=screen-256color
+" set t_Co=256
+" set t_ut=""
 set background=dark
 " map leader mappings
 let mapleader=" "
-nmap s <plug>(SubversiveSubstitute)
-nmap ss <plug>(SubversiveSubstituteLine)
-nmap S <plug>(SubversiveSubstituteToEndOfLine)ersiveSubstitute)
+" access clipboard
+set clipboard=unnamed
+" open vifm for browse files
 nnoremap <leader>v :EditVifm<esc>
+
+" search for files
 nnoremap <leader>F :Files .<esc>
 nnoremap <leader>S :CtrlSF 
-nnoremap gd "lyiw:Ack <C-r>l<CR>
-nnoremap <leader>f "lyiw/<C-r>l<CR>
+
+" go to last command
 nnoremap <leader><BS> :!<Up> 
+
+" reload vimrc
+noremap <leader>R :so ~/.vimrc<esc> 
  
-" split tmux
-nnoremap <leader>t :silent exec "!tmux split"<CR>
-nnoremap <leader>T :silent exec "!tmux split -h"<CR>
-" Select window
-nnoremap <leader>1 :silent exec "!tmux select-window -t 1"<CR>:redraw!<CR>
-nnoremap <leader>2 :silent exec "!tmux select-window -t 2"<CR>:redraw!<CR>
-nnoremap <leader>3 :silent exec "!tmux select-window -t 3"<CR>:redraw!<CR>
-nnoremap <leader>4 :silent exec "!tmux select-window -t 4"<CR>:redraw!<CR>
-nnoremap <leader>5 :silent exec "!tmux select-window -t 5"<CR>:redraw!<CR>
-nnoremap <leader>6 :silent exec "!tmux select-window -t 6"<CR>:redraw!<CR>
-nnoremap <leader>7 :silent exec "!tmux select-window -t 7"<CR>:redraw!<CR>
-nnoremap <leader>8 :silent exec "!tmux select-window -t 8"<CR>:redraw!<CR>
-nnoremap <leader>9 :silent exec "!tmux select-window -t 9"<CR>:redraw!<CR>
-" kill tmux session
-nnoremap <leader>Q :execute "!tmux kill-session -a"<CR>
 
 
 set noswapfile
@@ -71,11 +75,12 @@ filetype plugin on
 syntax on
 set wrap 
 set number
-set mouse=a
+" set mouse=a
 set foldmethod=indent
 set hlsearch
 set wildmenu
 set wildmode=longest,list,full
+
 nnoremap j gj
 nnoremap k gk
 " Exit insert mode easier
@@ -103,38 +108,6 @@ let g:dracula_italic = 0
 "packadd! dracula
 syntax enable
 colorscheme dracula
-
-" Fix ultisnips conflict with coc
-let g:UltiSnipsExpandTrigger = "<nop>"
-
-" use <tab> for trigger completion and navigate to the next complete item
-"function! s:check_back_space() abort
-"  let col = col('.') - 1
-"  return !col || getline('.')[col - 1]  =~ '\s'
-"endfunction
-
-"inoremap <silent><expr> <Tab>
-"      \ pumvisible() ? "\<C-n>" :
-"      \ <SID>check_back_space() ? "\<Tab>" :
-"      \ coc#refresh()
-
-"let g:coc_snippet_next = '<tab>'
-
-" Use <C-l> for trigger snippet expand.
-"imap <C-l> <Plug>(coc-snippets-expand)
-
-" Use <C-j> for select text for visual placeholder of snippet.
-"vmap <C-j> <Plug>(coc-snippets-select)
-
-" Use <C-j> for jump to next placeholder, it's default of coc.nvim
-"let g:coc_snippet_next = '<c-j>'
-
-" Use <C-k> for jump to previous placeholder, it's default of coc.nvim
-"let g:coc_snippet_prev = '<c-k>'
-
-" Use <C-j> for both expand and jump (make expand higher priority.)
-"imap <C-j> <Plug>(coc-snippets-expand-jump)
-
 
 " Re-yank pasted text in visual mode
 xnoremap p pgvy
